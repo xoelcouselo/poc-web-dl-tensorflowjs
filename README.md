@@ -1,3 +1,17 @@
+# Proof of Concept de una Web App que usa un Modelo de Deep Learning en FrontEnd con TensorFlow.js
+
+## 1. Crear el FrontEnd
+
+## 2. Datos de Entrenameinto a Usar
+
+## 3. Generar Modelo de DL con TensorFlow
+
+## 4. Implementar en FontEnd TensorFlow.js
+
+## 5. Implementar Modelo en el FontEnd con TensorFlow.js
+
+## 6. Resuemn del PoC
+
 # PocWebDlTensorflowjs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
